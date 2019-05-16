@@ -6,3 +6,5 @@ AutoHotKey scripts (Windows).
 -Hide min/max icons
 
 -Hide taskbar and titlebar icons
+
+**Requires autohotkey - you can either compile ahk files to .exe or run them directly**
