@@ -5,7 +5,7 @@ AutoHotKey scripts (Windows).
 
 -Hide min/max icons
 
--Hide taskbar and titlebar icons
+-TBiconblanker: Hide taskbar and titlebar icons (not written by me, but I'll be re-writing it)
 
 -Fixup: fixes some bs with my hide min/max buttons script I'd implement it within said script but for some reason they don't work together... don't ask me why, I have no idea (for now).
 
