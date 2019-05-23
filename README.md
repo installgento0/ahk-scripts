@@ -11,4 +11,4 @@ AutoHotKey scripts (Windows).
 
 **Requires autohotkey - you can either compile ahk files to .exe or run them directly**
 
-**Place scripts inside the windows startup folder to run them right after logging in: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup**
+**Place scripts inside the windows startup folder to run them right after logging in: C:\Users\<YourUsername>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup**
